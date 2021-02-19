@@ -19,6 +19,7 @@
 			<li>원격저장소</li>
 			<li>동기화</li>
 			<li>해결완료</li>
+			<li>변경</li>
 		</ul>
 	</body>
 </html>
